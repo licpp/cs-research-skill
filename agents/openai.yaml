@@ -1,0 +1,4 @@
+interface:
+  display_name: "计算机实验研究"
+  short_description: "从研究方向与高效实验探索，推进到强基线比较和成熟论文写作"
+  default_prompt: "使用 $cs-research，根据当前研究材料确定下一步，推进实验探索、SOTA 比较和论文写作。"
